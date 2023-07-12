@@ -27,7 +27,7 @@
     "ng-dynamic-component": "~4.0.0",
     "ngx-cron-editor": "^0.4.0",
     "ngx-monaco-editor": "^8.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "rollup": "^1.16.4",
     "rollup-plugin-app-utils": "^1.0.5",
     "rollup-plugin-includepaths": "^0.2.3",
@@ -38,7 +38,7 @@
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.800.0",
+    "@angular-devkit/build-angular": "~16.1.4",
     "@angular/compiler-cli": "~8.0.1",
     "@angular/language-service": "~8.0.1",
     "@types/jasmine": "~3.3.8",
